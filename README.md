@@ -1,2 +1,17 @@
-# Java-Basics
-A collection of Java basic programs covering fundamental concepts such as variables, data types, operators, loops, arrays, methods, and object-oriented programming. Created as part of my journey to becoming a Java Full Stack Developer.
+# Hello World in Java ☕
+
+This is my first Java program as I begin my journey toward becoming a Java Full Stack Developer.
+
+## Program Output
+
+Hello, World!
+This is my first Java program.
+Excited to begin my Java Developer journey!
+
+## Concepts Covered
+- Java Program Structure
+- main() Method
+- System.out.println()
+- Basic Console Output
+
+Thank you for visiting my repository! 🚀
