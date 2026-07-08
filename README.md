@@ -97,4 +97,26 @@ The program demonstrates different Java operators with simple examples.
 
 #Java #Programming #JavaDeveloper #LearningInPublic
 
+# Day 4 - User Input in Java
+
+## Overview
+
+This project demonstrates how to take user input in Java using the `Scanner` class.
+
+## Concepts Covered
+
+* Scanner class
+* User input
+* String, int, double, char, and boolean data types
+* Console input and output
+
+## Files
+
+* `UserInput.java` – Java source code
+
+## Learning Outcome
+
+By completing this program, I learned how to accept input from users, store values in variables, and display formatted output using Java.
+
+
 Thank you for visiting my repository! 🚀
