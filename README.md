@@ -119,4 +119,44 @@ This project demonstrates how to take user input in Java using the `Scanner` cla
 By completing this program, I learned how to accept input from users, store values in variables, and display formatted output using Java.
 
 
+# Day 5 - If Else Grade Checker
+
+## Overview
+
+This Java program demonstrates the use of **if-else statements** by creating a simple Grade Checker. It accepts marks from the user, validates the input, and displays the corresponding grade.
+
+## Features
+
+* User input using `Scanner`
+* Input validation (0–100)
+* Grade calculation using `if-else-if`
+* Simple and beginner-friendly
+
+## Technologies
+
+* Java
+* JDK 17+
+* VS Code / IntelliJ IDEA
+
+## Concepts Practiced
+
+* `if`, `else if`, `else`
+* Conditional statements
+* Relational and logical operators
+* User input with `Scanner`
+
+## Sample Output
+
+```text
+Enter your marks (0-100): 85
+
+Grade: A
+Very Good!
+```
+
+## Learning Outcome
+
+This program helped me understand how to use conditional statements to make decisions in Java programs and validate user input.
+
+
 Thank you for visiting my repository! 🚀
