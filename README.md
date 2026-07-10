@@ -158,5 +158,49 @@ Very Good!
 
 This program helped me understand how to use conditional statements to make decisions in Java programs and validate user input.
 
+# Day 6 - Switch Statement Calculator
+
+## 📌 Overview
+
+This project demonstrates the use of the **switch statement** in Java by creating a simple calculator.
+
+## 🚀 Features
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Invalid choice handling
+* Division by zero check
+
+## 📚 Concepts Covered
+
+* `switch` statement
+* `case`
+* `break`
+* `default`
+* User Input (`Scanner`)
+* Conditional checking
+
+## ▶️ Sample Output
+
+```
+Enter first number: 20
+Enter second number: 5
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+
+Enter your choice: 3
+
+Result = 100.0
+```
+
+## 🎯 Learning Outcome
+
+By completing this project, I learned how to use the `switch` statement to execute different blocks of code based on user input and build a simple menu-driven Java application.
 
 Thank you for visiting my repository! 🚀
