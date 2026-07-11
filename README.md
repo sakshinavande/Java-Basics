@@ -203,4 +203,48 @@ Result = 100.0
 
 By completing this project, I learned how to use the `switch` statement to execute different blocks of code based on user input and build a simple menu-driven Java application.
 
+
+# Day 7 - Multiplication Table Using For Loop
+
+## 📌 Overview
+
+This Java program demonstrates the use of the **for loop** by generating the multiplication table of a user-entered number.
+
+## 🚀 Features
+
+* Accepts user input
+* Uses a `for` loop
+* Displays multiplication table from **1 to 10**
+* Simple and beginner-friendly
+
+## 📚 Concepts Covered
+
+* `for` loop
+* Loop control
+* User input (`Scanner`)
+* Arithmetic operations
+
+## ▶️ Sample Output
+
+```text
+Enter a number: 7
+
+Multiplication Table of 7
+
+7 x 1 = 7
+7 x 2 = 14
+7 x 3 = 21
+7 x 4 = 28
+7 x 5 = 35
+7 x 6 = 42
+7 x 7 = 49
+7 x 8 = 56
+7 x 9 = 63
+7 x 10 = 70
+```
+
+## 🎯 Learning Outcome
+
+This project helped me understand how the `for` loop executes repeatedly based on a condition and how it can be used to automate repetitive tasks efficiently.
+
 Thank you for visiting my repository! 🚀
