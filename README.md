@@ -247,4 +247,44 @@ Multiplication Table of 7
 
 This project helped me understand how the `for` loop executes repeatedly based on a condition and how it can be used to automate repetitive tasks efficiently.
 
+
+# Day 8 - Java Loops (`for`, `while`, and `do-while`)
+
+## 📌 Overview
+
+This project demonstrates three important looping concepts in Java:
+
+* Nested `for` loops
+* `while` loop
+* `do-while` loop
+
+These examples help build a strong understanding of iteration and program flow.
+
+## 🚀 Programs Included
+
+### ⭐ Star Pattern
+
+Prints a right-angled star pattern using nested `for` loops.
+
+### 🔢 While Loop
+
+Prints numbers from **1 to 10** using a `while` loop.
+
+### 🔁 Do-While Loop
+
+Prints numbers from **1 to 10** using a `do-while` loop.
+
+## 📚 Concepts Covered
+
+* `for` loop
+* Nested loops
+* `while` loop
+* `do-while` loop
+* Loop control
+* Pattern printing
+
+## 🎯 Learning Outcome
+
+By completing this project, I learned how different loop structures work in Java, when to use each type of loop, and how loops can simplify repetitive tasks and solve pattern-based problems.
+
 Thank you for visiting my repository! 🚀
