@@ -287,4 +287,28 @@ Prints numbers from **1 to 10** using a `do-while` loop.
 
 By completing this project, I learned how different loop structures work in Java, when to use each type of loop, and how loops can simplify repetitive tasks and solve pattern-based problems.
 
+# Day 9 - Pattern Printing in Java
+
+## 📌 Overview
+
+This project demonstrates how to create different patterns using **nested `for` loops**. Pattern programming is a great way to strengthen logic-building and understand loop execution.
+
+## 🚀 Patterns Included
+
+* ⭐ Right Triangle Star Pattern
+* ⭐ Inverted Star Pattern
+* ⭐ Number Triangle Pattern
+
+## 📚 Concepts Covered
+
+* `for` loop
+* Nested loops
+* Pattern printing
+* Row and column logic
+* Problem-solving
+
+## 🎯 Learning Outcome
+
+This project helped me understand how nested loops work together to generate different patterns. Practicing pattern problems improved my confidence in writing loop-based Java programs and strengthened my logical thinking.
+
 Thank you for visiting my repository! 🚀
